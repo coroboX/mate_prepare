@@ -2,4 +2,4 @@
 pre-course git workflow
 
 - [Preview](https://coroboX.github.io/mate_prepare/)
-- [Pull Request](https://github.com/coroboX/mate_prepare/pull/1/files)
+- [Pull Request](https://github.com/coroboX/mate_prepare/pull/2/files)
